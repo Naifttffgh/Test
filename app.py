@@ -5,7 +5,7 @@ app = Flask(__name__)
 # قائمة مؤقتة للبيانات
 visitors = []
 
-TARGET_URL = "https://www.instagram.com/reel/DW1uB4LjM8N/"
+TARGET_URL = "https://youtube.com/@1fbas?si=OYUeEGClyNIqWhVo"
 
 @app.route('/')
 def index():
